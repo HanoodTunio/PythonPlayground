@@ -1,0 +1,5 @@
+ ID 		 name	address	  CNIC     phone number
+
+021-21-0001	Hanood	Sukkur	927483	29893274	
+021-21-0046	Sana	IBA 	829377	923892847836
+173-22-0001	Mareen	IBA	2917439	32894783	

@@ -1,0 +1,1 @@
+#Given a list of strings, write a program to find the longest string and its length.

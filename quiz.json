@@ -1,0 +1,26 @@
+{
+    "questions": [
+      {
+        "question": "What is the capital of Pakistan?",
+        "options": ["Karachi", "Lahore", "Hyderabad", "Isalamabad"],
+        "answer": "Isalamabad"
+      },
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+        "answer": "Mars"
+      },
+      {
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Michelangelo"],
+        "answer": "Leonardo da Vinci"
+      },
+      {
+        "question":"What does the term soft power refer to in the field of International Relations? ",
+        "options":["Military strength and capabilities", "Economic dominance and trade influence", 
+        "Cultural attraction and persuasion","Diplomatic negotiations and agreements"],
+        "answer":"Cultural attraction and persuasion"
+      }
+    ]
+  }
+  
